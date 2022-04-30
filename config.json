@@ -1,0 +1,55 @@
+{
+    "token": "OTY2NzUwMDg4NzkxNzUyNzQ0.YmGSLg.3BFMjWB1U_xQJ-W3Q5uE_uRcTK8",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/966763264841252865/UhGKNeKVpgkoaxwSyzyzsEo68CqCU_0xHq49ER2RB4ZEkF-tr_4k5Cr4w1JirsBRhLVP": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first",
+            "salon": "tous"
+        },
+        "https://discord.com/api/webhooks/966763877503221780/PRsy3b2QwdBXhnv-ycXEPHXcTRV1UqEGdaAOfyxpibDyDdo39kTG3XNPLjg0qrOfs-eh": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&catalog[]=34",
+            "salon": "jeans"
+        },
+        "https://discord.com/api/webhooks/967038638091280394/Z-rW3xNg4xzTRwTzOhPJaXWD5pycnhYJELIacK4HMNOquG-3Cfq6Qn6TSoRl3nSvjqbK": {
+            "url": "https://www.vinted.fr/vetements?search_text=adidas&search_id=5092438134&order=newest_first&price_from=0&currency=EUR&price_to=20",
+            "salon": "\ud83d\udc55adidas-20\u20ac"
+        },
+        "https://discord.com/api/webhooks/967038758807535687/vFYHmwLanBCvqodQQ6L7X2eeh9LkXfD8CEXEPXuHae1Tm7lqDhYDb4Sl99EYpop1B15N": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike&search_id=5092450829&order=newest_first&price_from=0&currency=EUR&price_to=20&time=1650630387",
+            "salon": "\ud83d\udc55nike-20\u20ac"
+        },
+        "https://discord.com/api/webhooks/967038998969217104/2ey_ihCniZGsv5iyVMvuXA8ir2S8SifGXl_QCSgJSp4l2SKFWNfpi7cM3QoU4j2dS71z": {
+            "url": "https://www.vinted.fr/vetements?search_id=5092456260&order=newest_first&currency=EUR&search_text=Chaussures",
+            "salon": "chaussures"
+        },
+        "https://discord.com/api/webhooks/967039748084473878/1a7MMr54yfaT7J1dFTBo5JIDWbOQbCsrr6NxJeZ1n80lNpsbg_tmgI3ZQApPTIYKrEWb": {
+            "url": "https://www.vinted.fr/vetements?search_id=5092474184&order=newest_first&currency=EUR&search_text=dunk&price_from=0&price_to=100",
+            "salon": "dunk"
+        },
+        "https://discord.com/api/webhooks/967040422893465680/NtubCpbE8BuSm9UMSU66Ijp4fjHkCqeqVYi26376oBdpDCG6pZfSuhtFW2AN3kOMvzma": {
+            "url": "https://www.vinted.fr/vetements?search_id=5092487487&order=newest_first&currency=EUR&search_text=jordan%20mid&price_from=0&price_to=100",
+            "salon": "jordan_mid-100"
+        },
+        "https://discord.com/api/webhooks/967040862305525810/6Oe0hslai4cm9TAUJQd6Gy84yZFLCZAu32_GHJyrzjf-W8UHfDWV3MsXBgttKYrmH4In": {
+            "url": "https://www.vinted.fr/vetements?search_id=5092501403&order=newest_first&currency=EUR&search_text=Tommy%20Hilfiger&price_from=0&price_to=30",
+            "salon": "tommy_hilfiger-30"
+        },
+        "https://discord.com/api/webhooks/967041708120481802/_fy10xfBnPmO7NSm_v6pGtStdtz2fMprgROH2mcPRQxCwzZolb7s8ZTcyaYD0u8ZhGWv": {
+            "url": "https://www.vinted.fr/vetements?search_id=5092511207&order=newest_first&currency=EUR&price_from=0&brand_id[]=61&price_to=30",
+            "salon": "ikks-30\u20ac"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
